@@ -31,6 +31,8 @@ The OpenNerve IPG has been designed and manufactured in partnership with a numbe
 * [Medipace Inc](https://www.medipaceinc.com/) - Manages electronics and firmware development, performs software development
 * [Focus Uy](https://focus.uy/) - Designed the printed circuit board for OpenNerve IPG and charger
 * [CoForce Ltd.](https://www.coforcemed.com/) - Peformed firmware development for OpenNerve
+* [Veronica Rosado.](https://www.linkedin.com/in/veronica-rosado-silva/) - Developed Sine Wave Generator tool for OpenNerve
+* [Julian Lee](https://www.linkedin.com/in/julian-lee-t/) - Worked on sine wave generator
 
 Funding for OpenNerve has been provided by the US National Institutes of Health's SPARC program # [1U41NS129514](https://reporter.nih.gov/project-details/10557000) as well as by the US National Science Foundation's POSE Phase 1 program # [2449357](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2449357). 
   
