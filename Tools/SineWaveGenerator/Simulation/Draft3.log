@@ -1,0 +1,14 @@
+LTspice 26.0.2 for MacOS
+Circuit: /Users/julianlee/Library/Application Support/LTspice/Bottles/ltspice/drive_c/users/crossover/Documents/LTspice/Draft3.net
+Start Time: Thu Jun 18 14:44:26 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Per .tran options, skipping operating point for transient analysis.
+Total elapsed time: 0.165 seconds.
+
+Files loaded:
+/Users/julianlee/Library/Application Support/LTspice/Bottles/ltspice/drive_c/users/crossover/Documents/LTspice/Draft3.net
+
